@@ -3,7 +3,7 @@ package ifs;
 public class InsuranceStrategyHigh extends InsuranceStrategy {
     @Override
     public int getConstant() {
-        return 30000;
+        return 76500;
     }
 
     @Override
@@ -13,6 +13,6 @@ public class InsuranceStrategyHigh extends InsuranceStrategy {
 
     @Override
     public int getAdjustment() {
-        return 76500;
+        return 30000;
     }
 }
