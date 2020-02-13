@@ -8,7 +8,7 @@ public class InsuranceStrategyLow extends InsuranceStrategy {
 
     @Override
     public double getWeight() {
-        return 0;
+        return 0.365;
     }
 
     @Override
